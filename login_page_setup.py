@@ -1,0 +1,5 @@
+root = Tk()
+root.title('login')
+root.geometry('925x500+300+200')
+root.configure(bg = '#fff')
+root.resizable(False,False)
