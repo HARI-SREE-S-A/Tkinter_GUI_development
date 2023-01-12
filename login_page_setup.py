@@ -51,7 +51,7 @@ label = Label(frame,text = "Dont have an account?",fg = 'white',bg ='black',font
 
 
 
-signup.place(x=215,y = 270)
+
 
 
 root.mainloop()
